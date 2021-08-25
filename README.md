@@ -19,3 +19,7 @@ directory must contain an index.html file, which essentially replaces the markup
 traditionally be included in your index.php file.
 
 Additionally, you're _likely_ going to want to include a theme.json file.
+
+# Additional options
+The `block-template-parts` directory can include any template parts needed for re-use within 
+the theme.
